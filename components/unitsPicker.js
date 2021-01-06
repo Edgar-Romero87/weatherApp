@@ -13,7 +13,6 @@ export default function UnitsPicker({ unitsSystem, setUnitsSystem }) {
       </Picker>
     </View>
 
-
     // <Container>
     //     <Header />
     //     <Content>
